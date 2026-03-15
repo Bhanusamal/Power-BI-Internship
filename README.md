@@ -1,4 +1,4 @@
-# Power-BI-Project
+# Power-BI-Sales-Performance-Dashboard
 # 📊 Sales Performance Dashboard (2014–2017)
 
 ## 📌 Project Overview
