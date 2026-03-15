@@ -102,15 +102,7 @@ A donut chart shows how each year contributes to overall sales performance.
 
 ## 📷 Dashboard Preview
 
-*(Add a screenshot of your Power BI dashboard here)*
-
-Example:
-
-```
-![Sales Dashboard](dashboard.png)
-```
-
----
+![Sales Dashboard](Dashboard.png)
 
 ## 🚀 Future Improvements
 
