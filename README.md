@@ -102,7 +102,7 @@ A donut chart shows how each year contributes to overall sales performance.
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](Dashboard.png)
+![Sales Dashboard](Dashboard(1).png)
 
 ## 🚀 Future Improvements
 
